@@ -159,7 +159,7 @@ Después de la instalación, se importa al proyecto :
 ```
 
 
-![Descripción de la imagen Markdown](/images/consola.png)
+<!-- ![Descripción de la imagen Markdown](/images/consola.png)-->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
